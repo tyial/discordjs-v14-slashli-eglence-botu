@@ -36,7 +36,7 @@ Eğer Glitch platformunda çalışacak bir altyapıya ihtiyacınız varsa, Disco
 
 - **📘 Discord.js Belgeleri:** [https://discord.js.org](https://discord.js.org)
 - **📕 Node.js Belgeleri:** [https://nodejs.org](https://nodejs.org)
-- **🔍 GitHub:** [https://github.com/Tyial](https://github.com/tyial)
+- **🔍 GitHub:** [https://github.com/tyial](https://github.com/tyial)
 
 ---
 
